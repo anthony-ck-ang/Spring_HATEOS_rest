@@ -9,5 +9,5 @@ HATEOS (Hypermedia As The Engine Of Application State)
 - easy to consume
 
 # Note
-Please check pom.xml for a list of dependencies used.
-Please use a restful client or curl -i on command line to test this application.
+- Please check pom.xml for a list of dependencies used.
+- Please use a restful client or curl -i on command line to test this application.
