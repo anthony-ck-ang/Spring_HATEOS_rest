@@ -8,6 +8,6 @@ HATEOS (Hypermedia As The Engine Of Application State)
 - end points are created automatically
 - easy to consume
 
-Note
+#Note
 Please check pom.xml for a list of dependencies used.
 Please use a restful client or curl -i on command line to test this application.
